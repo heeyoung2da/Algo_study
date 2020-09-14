@@ -1,4 +1,5 @@
-s = 'abcde'
+s = 'abcdef'
+
 def solution(s):
     answer = ''
     length = int(len(s) / 2)
