@@ -9,4 +9,4 @@ def solution(s):
 
     return answer
 
-solution(s)
+print(solution(s))
