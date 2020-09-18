@@ -11,7 +11,6 @@ def solution(strings, n):
     result = dict(sorted(new.items(), key=lambda x: x[1]))
     result = list(result.keys())
 
-
     return result
 
 print(solution(strings, n))
