@@ -6,7 +6,6 @@ read = sys.stdin.readline
 n, m = map(int, read().rstrip().split())
 
 # c = combinations(range(1, n+1), m)
-
 # for i in c:
 #     print(" ".join(map(str, i)))
 
